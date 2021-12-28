@@ -1,0 +1,36 @@
+.txt-align {
+    text-align: center;
+}
+.txt-upercase {
+    text-transform: uppercase;
+}
+.txt-capitalize {
+    text-transform: capitalize;
+}
+.radius-3px {
+    border-radius: 3px;
+}
+.radius-2px {
+    border-radius: 2px;
+}
+.radius-50percent {
+    border-radius: 50%;
+}
+.overflow {
+    overflow: hidden;
+}
+.float-left {
+    float: left;
+}
+.display-block {
+    display: block;
+}
+.display-inline-block {
+    display: block;
+}
+.display-flex {
+    display: block;
+}
+.display-grid {
+    display: grid;
+}
